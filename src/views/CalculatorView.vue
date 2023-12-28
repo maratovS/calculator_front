@@ -106,8 +106,6 @@ export default {
 
 .calculator__form {
   width: 400px;
-  display: flex;
-  flex-direction: column;
   row-gap: 20px;
   padding: 20px;
   margin: 40px;
@@ -148,8 +146,6 @@ export default {
 
 .calculator__input {
   padding: 8px;
-  border: 1px solid $accent;
-  border-radius: 4px;
   background-color: $light;
   &:focus {
     border: 1px solid $light_accent;
@@ -160,7 +156,6 @@ export default {
 .calculator__result {
   padding: 8px;
   border: 1px solid $accent;
-  border-radius: 4px;
   background-color: $light;
   &:focus {
     border: 1px solid $light_accent;

@@ -75,7 +75,6 @@ export default {
 .input {
   padding: 8px;
   border: 1px solid $accent;
-  border-radius: 4px;
   background-color: $light;
   &:focus {
     border: 1px solid $light_accent;

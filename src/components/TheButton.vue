@@ -14,7 +14,6 @@ export default {
 .btn {
   padding: 8px;
   border: 1px solid $accent;
-  border-radius: 4px;
   align-self: flex-end;
   background-color: $dark_accent;
   transition: all .1s ease-in;

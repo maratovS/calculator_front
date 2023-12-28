@@ -17,7 +17,6 @@ export default {
 .calculator__select {
   padding: 8px;
   border: 1px solid $accent;
-  border-radius: 4px;
   background-color: $light;
   outline: none;
 }
